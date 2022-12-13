@@ -102,6 +102,9 @@
 |    99.|           |      |                |      | |
 |    100.|           |      |                |      |         | 
 
-*Note*: Made with :heart: by opource <br>
-Star :star:vthis repo <br>
+<p align="center">
+Note: Made with :heart: by opource <br>
+Star :star: this repo <br>
 Copyrights | @opource
+</p>
+
