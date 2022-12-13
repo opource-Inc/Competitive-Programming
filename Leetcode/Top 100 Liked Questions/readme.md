@@ -103,5 +103,5 @@
 |    100.|           |      |                |      |         | 
 
 *Note*: Made with :heart: by opource <br>
-Star :star:this repo <br>
+Star :star:vthis repo <br>
 Copyrights | @opource
