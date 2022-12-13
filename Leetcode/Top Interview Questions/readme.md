@@ -147,7 +147,7 @@
 |    145.|           |      |                |      | |
 
 <p align="center">
-*Note*: Made with :heart: by opource <br>
+Note: Made with :heart: by opource <br>
 Star :star: this repo <br>
 Copyrights | @opource
 </p>
