@@ -1,6 +1,4 @@
-https://cses.fi/problemset/
-
-## CSES Problems Set 
+# CSES Problems Set 
 
 ### Introductory Problems
 |     Problems    |    Topic   | Tags   | Solution | Video Solution |    Blog     |
