@@ -1,8 +1,8 @@
 # CSES Problems Set 
 
 ### Introductory Problems
-|     Problems    |    Topic   | Tags   | Solution | Video Solution |    Blog     |
-| --------------- | ---------- | ------ | -------- | -------------- | ----------- |
+|     Problems    |    Topic   | Tags   | Difficulty Level | Solution | Video Solution |    Blog     |
+| --------------- | ---------- | ------ | -------- | -------------- | ----------- | ------------|
 | [Weird Algorithm]()  |         |        |          |         
 | [Missing Number]() | 
 | [Repetitions]() | 
@@ -25,8 +25,8 @@
 
 ### Sorting and Searching
 
-|     Problems    |    Topic   | Tags   | Solution | Video Solution |    Blog     |
-| --------------- | ---------- | ------ | -------- | -------------- | ----------- |
+|     Problems    |    Topic   | Tags   | Difficulty Level | Solution | Video Solution |    Blog     |
+| --------------- | ---------- | ------ | -------- | -------------- | ----------- | ----------- |
 | [Distinct Numbers]() |
 | [Apartments]()|
 | [Ferris Wheel]()|
@@ -65,8 +65,8 @@
 
 
 ### Dynamic Programming
-|     Problems    |    Topic   | Tags   | Solution | Video Solution |    Blog     |
-| --------------- | ---------- | ------ | -------- | -------------- | ----------- |
+|     Problems    |    Topic   | Tags   | Difficulty Level | Solution | Video Solution |    Blog     |
+| --------------- | ---------- | ------ | -------- | -------------- | ----------- | ----------- |
 | [Dice Combinations]() | 
 | [Minimizing Coins]() | 
 | [Coin Combinations I]() |
@@ -88,8 +88,8 @@
 | [Counting Numbers]() |
 
 ### Graph Algorithms
-|     Problems    |    Topic   | Tags   | Solution | Video Solution |    Blog     |
-| --------------- | ---------- | ------ | -------- | -------------- | ----------- |
+|     Problems    |    Topic   | Tags   | Difficulty Level | Solution | Video Solution |    Blog     |
+| --------------- | ---------- | ------ | -------- | -------------- | ----------- | ----------- |
 | [Counting Rooms]() |
 | [Labyrinth]() |
 | [Building Roads]() |
@@ -129,8 +129,8 @@
 
 
 ### Range Queries
-|     Problems    |    Topic   | Tags   | Solution | Video Solution |    Blog     |
-| --------------- | ---------- | ------ | -------- | -------------- | ----------- |
+|     Problems    |    Topic   | Tags   | Difficulty Level | Solution | Video Solution |    Blog     |
+| --------------- | ---------- | ------ | -------- | -------------- | ----------- |----------- |
 | [Static Range Sum Queries]() |
 | [Static Range Minimum Queries]() |
 | [Dynamic Range Sum Queries]() |
@@ -153,8 +153,8 @@
 
 
 ### Tree Algorithms
-|     Problems    |    Topic   | Tags   | Solution | Video Solution |    Blog     |
-| --------------- | ---------- | ------ | -------- | -------------- | ----------- |
+|     Problems    |    Topic   | Tags   | Difficulty Level | Solution | Video Solution |    Blog     |
+| --------------- | ---------- | ------ | -------- | -------------- | ----------- |----------- |
 | [Subordinates]() |
 | [Tree Matching]() |
 | [Tree Diameter]() |
@@ -174,8 +174,8 @@
 
 
 ### Mathematics
-|     Problems    |    Topic   | Tags   | Solution | Video Solution |    Blog     |
-| --------------- | ---------- | ------ | -------- | -------------- | ----------- |
+|     Problems    |    Topic   | Tags   | Difficulty Level | Solution | Video Solution |    Blog     |
+| --------------- | ---------- | ------ | -------- | -------------- | ----------- |----------- |
 | [Josephus Queries]() |
 | [Exponentiation]() |
 | [Exponentiation II]()|
@@ -211,8 +211,8 @@
 
 
 ### String Algorithms
-|     Problems    |    Topic   | Tags   | Solution | Video Solution |    Blog     |
-| --------------- | ---------- | ------ | -------- | -------------- | ----------- |
+|     Problems    |    Topic   | Tags   | Difficulty Level | Solution | Video Solution |    Blog     |
+| --------------- | ---------- | ------ | -------- | -------------- | ----------- |----------- |
 | [Word Combinations]() |
 | [String Matching]() |
 | [Finding Borders]() |
@@ -234,8 +234,8 @@
 
 
 ### Geometry
-|     Problems    |    Topic   | Tags   | Solution | Video Solution |    Blog     |
-| --------------- | ---------- | ------ | -------- | -------------- | ----------- |
+|     Problems    |    Topic   | Tags   | Difficulty Level | Solution | Video Solution |    Blog     |
+| --------------- | ---------- | ------ | -------- | -------------- | ----------- |----------- |
 | [Point Location Test]() |
 | [Line Segment Intersection]() |
 | [Polygon Area]() |
@@ -247,8 +247,8 @@
 
 
 ### Advanced Techniques
-|     Problems    |    Topic   | Tags   | Solution | Video Solution |    Blog     |
-| --------------- | ---------- | ------ | -------- | -------------- | ----------- |
+|     Problems    |    Topic   | Tags   | Difficulty Level Solution | Video Solution |    Blog     |
+| --------------- | ---------- | ------ | -------- | -------------- | ----------- | ----------- |
 | [Meet in the Middle]() |
 | [Hamming Distance]() |
 | [Beautiful Subgrids]() |
@@ -277,8 +277,8 @@
 
 
 ### Additional Problems
-|     Problems    |    Topic   | Tags   | Solution | Video Solution |    Blog     |
-| --------------- | ---------- | ------ | -------- | -------------- | ----------- |
+|     Problems    |    Topic   | Tags   | Difficulty Level | Solution | Video Solution |    Blog     |
+| --------------- | ---------- | ------ | -------- | -------------- | ----------- |----------- |
 | [Shortest Subsequence]() |
 | [Counting Bits]() |
 | [Swap Game]() |
