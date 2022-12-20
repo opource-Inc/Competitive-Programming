@@ -247,7 +247,7 @@
 
 
 ### Advanced Techniques
-|     Problems    |    Topic   | Tags   | Difficulty Level Solution | Video Solution |    Blog     |
+|     Problems    |    Topic   | Tags   | Difficulty Level | Solution | Video Solution |    Blog     |
 | --------------- | ---------- | ------ | -------- | -------------- | ----------- | ----------- |
 | [Meet in the Middle]() |
 | [Hamming Distance]() |
