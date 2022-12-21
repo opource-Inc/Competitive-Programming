@@ -1,6 +1,6 @@
 # Competitive-Programming
 
-## Competitive Programming Websites
+## Websites for Practice
 
 - [Leetcode]()
 - [Codechef](https://www.codechef.com/)
