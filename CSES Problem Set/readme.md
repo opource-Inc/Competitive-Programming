@@ -1,11 +1,11 @@
 # CSES Problems Set 
 
 ### Introductory Problems
-|     Problems    |    Topic   | Tags   | Difficulty Level | Solution | Video Solution |    Blog     |
-| --------------- | ---------- | ------ | -------- | -------------- | ----------- | ------------|
-| [Weird Algorithm]()  |         |        |          |         
-| [Missing Number]() | 
-| [Repetitions]() | 
+|     Problems    |    Topic   | Tags   | Difficulty Level | Solved |Solution | Video Solution |    Blog     |
+| --------------- | ---------- | ------ | ---------------- | ---------| ----- | ----------- | ------------|
+| [Weird Algorithm]()|         |        |                  | :white_check_mark: |         
+| [Missing Number]() |        |        |                  | :white_check_mark: |     
+| [Repetitions]() |        |        |                  | :white_check_mark: |     
 | [Increasing Array]() |
 | [Permutations]() |
 | [Number Spiral]() | 
